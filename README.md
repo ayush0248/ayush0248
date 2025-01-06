@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm a passionate Full-stack development who loves 
 
 ## 🌟 About Me
 
-- 💻 I'm currently working as a Full-Stack Developer.
-- 🎓 I have a degree in Computer Science.
+- 💻 I'm currently working as a Full-Stack Developer / APP Developer.
+- 🎓 I am pursuing degree in Computer Engineering.
 - 🌱 I'm currently Learning about App development.
-- 💬 Ask me about web development, JavaScript, Python, and open-source contributions.
+- 💬 Ask me about web development, JavaScript, Python, and open-source contributions,Flutter.
 - 📫 How to reach me: [aspatel242005@gmail.com]
 - ⚡ Fun fact: I love playing Games and sleep😴 In my free time.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, Python,c++
-- **Frontend:** React, HTML, CSS,
+- **Frontend:** React, HTML, CSS, 
 - **Backend:** Node.js, Express,
 
 
