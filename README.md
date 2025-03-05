@@ -14,8 +14,9 @@ Welcome to my GitHub profile! I'm a passionate Full-stack development who loves 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, Python,c++
-- **Frontend:** React, HTML, CSS, 
-- **Backend:** Node.js, Express,
+- **Development** React,Nextjs, Flutter,  Nodejs, Express, Tailwind css
+- **Database:** MySQL, MongoDB, Firebase
+- **Tools:** Git,VS Code,Postman
 
 
 Here are some of the projects I've worked on:
@@ -23,7 +24,6 @@ Here are some of the projects I've worked on:
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush0248&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-
 - [LinkedIn](https://www.linkedin.com/in/patel-ayush-1a7118300)
 - [Twitter](https://x.com/PatelAyush00700?t=7xwaNIPqeXIEzHmG3mWRIQ&s=09)
 
