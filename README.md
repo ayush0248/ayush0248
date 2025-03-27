@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://github.com/ayush0248" width="100px"><br/>
+  <img [src="https://github.com/ayush0248" width="100px"><br/>
   Ayush Patel
 </h1>
 <p align="center">
