@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://github.com/account" width="100px"><br/>
+  <img src="https://github.com/ayush0248" width="100px"><br/>
   Ayush Patel
 </h1>
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel-ayush-1a7118300)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-patel-1a7118300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aspatel242005@gmail.com)
 
 ---
